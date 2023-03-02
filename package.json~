@@ -1,0 +1,19 @@
+{
+  "name": "apostalol",
+  "version": "1.0.0",
+  "description": "Aplicação para gerenciamento de apostas online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturrpereira/TCC.git"
+  },
+  "author": "Artur Fernando Pereira & Lucas Carmo Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturrpereira/TCC/issues"
+  },
+  "homepage": "https://github.com/arturrpereira/TCC#readme"
+}
